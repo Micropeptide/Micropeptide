@@ -1,0 +1,28 @@
+### Hi, I'm Micropeptide
+
+PhD student at UCLA studying plant epigenetics. I build small, privacy-first tools —
+mostly for the Mac and the web, plus a few for genomics work. Everything here is MIT
+licensed. More at **[runtianwu.com/software](https://runtianwu.com/software/)**.
+
+#### On the web
+
+- **[Overlap](https://github.com/Micropeptide/Overlap)** — group scheduling with no accounts: pick dates, share one link, see when everyone is free. [Try it →](https://overlap.runtianwu.com)
+
+#### AI assistant
+
+- **[Orbit](https://github.com/Micropeptide/Orbit)** — a research and coding assistant on your own Mac. Local MLX models or your existing subscriptions, scheduled tasks, SSH chats.
+- **[Orbit-iOS](https://github.com/Micropeptide/Orbit-iOS)** — the iPhone companion: your Mac's chats, live over Tailscale or Wi-Fi.
+
+#### Mac utilities
+
+| | |
+|---|---|
+| **[FinderRescue](https://github.com/Micropeptide/FinderRescue)** | Keeps Finder responsive — detects when it's stuck and relaunches it. |
+| **[Firefly](https://github.com/Micropeptide/Firefly)** | Keeps your Mac awake — on demand, on a schedule, or through a closed lid. |
+| **[Pocket](https://github.com/Micropeptide/Pocket)** | Menu bar organizer — visible and hidden groups, every icon one click away. |
+| **[DockAnchor](https://github.com/Micropeptide/DockAnchor)** | Pins the Dock to one display across multiple monitors. |
+| **[MiddleClick AutoScroll](https://github.com/Micropeptide/MiddleClick-AutoScroll-Safari)** | Classic middle-click autoscroll for Safari. |
+
+#### Genomics
+
+- **[IGV-X](https://github.com/Micropeptide/IGV-X)** — a fork of IGV tuned for large epigenomics sessions: faster big sessions, chromosome-name resolution, bookmarks, high-quality export.
