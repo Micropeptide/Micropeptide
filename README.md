@@ -1,4 +1,4 @@
-### Hi, I'm Micropeptide
+### Hi, I'm Runtian Wu. 
 
 PhD student at UCLA studying plant epigenetics. I build small, privacy-first tools —
 mostly for the Mac and the web, plus a few for genomics work. Everything here is MIT
