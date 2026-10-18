@@ -15,13 +15,11 @@ licensed. More at **[runtianwu.com/software](https://runtianwu.com/software/)**.
 
 #### Mac utilities
 
-| | |
-|---|---|
-| **[FinderRescue](https://github.com/Micropeptide/FinderRescue)** | Keeps Finder responsive — detects when it's stuck and relaunches it. |
-| **[Firefly](https://github.com/Micropeptide/Firefly)** | Keeps your Mac awake — on demand, on a schedule, or through a closed lid. |
-| **[Pocket](https://github.com/Micropeptide/Pocket)** | Menu bar organizer — visible and hidden groups, every icon one click away. |
-| **[DockAnchor](https://github.com/Micropeptide/DockAnchor)** | Pins the Dock to one display across multiple monitors. |
-| **[MiddleClick AutoScroll](https://github.com/Micropeptide/MiddleClick-AutoScroll-Safari)** | Classic middle-click autoscroll for Safari. |
+- **[FinderRescue](https://github.com/Micropeptide/FinderRescue)** — keeps Finder responsive — detects when it's stuck and relaunches it.
+- **[Firefly](https://github.com/Micropeptide/Firefly)** — keeps your Mac awake — on demand, on a schedule, or through a closed lid.
+- **[Pocket](https://github.com/Micropeptide/Pocket)** — menu bar organizer — visible and hidden groups, every icon one click away.
+- **[DockAnchor](https://github.com/Micropeptide/DockAnchor)** — pins the Dock to one display across multiple monitors.
+- **[MiddleClick AutoScroll](https://github.com/Micropeptide/MiddleClick-AutoScroll-Safari)** — classic middle-click autoscroll for Safari.
 
 #### Genomics
 
