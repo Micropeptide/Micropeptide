@@ -6,7 +6,7 @@ licensed. More at **[runtianwu.com/software](https://runtianwu.com/software/)**.
 
 #### On the web
 
-- **[Overlap](https://github.com/Micropeptide/Overlap)** — group scheduling with no accounts: pick dates, share one link, see when everyone is free. [Try it →](https://overlap.runtianwu.com)
+- **[Overlap](https://github.com/Micropeptide/Overlap)** — group scheduling with no accounts: share one link, see exactly who can make each time, and get the best times ranked for you. In 20 languages. [Try it →](https://overlap.runtianwu.com) · [Sample poll](https://overlap.runtianwu.com/p/example) · [Demo video](https://youtu.be/JaGf1Ai5awg)
 
 #### AI assistant
 
